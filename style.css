@@ -1,14 +1,21 @@
 body {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     max-width: 1280px;
     margin: 0 auto;
+    margin-top: 200px;
 }
 
-body  h3 {
+h3 {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 90vh;
+}
+
+button{
+    background: #0077ff;
+    border: 2px solid green;
+    border-radius: 10px;
 }

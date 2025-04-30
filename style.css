@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+body  h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
